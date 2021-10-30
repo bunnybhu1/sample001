@@ -1,2 +1,2 @@
-# README Dec
+# README Doc
 Hi, this is my first project.
