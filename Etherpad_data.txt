@@ -1,0 +1,45 @@
+CRUD - Create, Read, Update, Delete
+
+
+Folder
+mkdir git
+ls
+ls -lta
+mv git github
+rm -rf github
+
+Files
+touch file1.txt
+cat file1.txt
+ 
+echo "Hello World" >> file1.txt
+echo "Hello World01" >> file1.txt
+
+echo "Hello Simplilearn" > file1.txt
+cat file1.txt
+
+mv file1.txt test.txt
+
+rm test.txt
+
+Which city you like to visit?
+- Kolkata
+- Shimla
+Pune
+Maharashtra 
+
+Tokyo
+Manali
+Goa
+Jaipur
+Antarctica
+Bangalore
+Texas
+California
+Bangalore
+Tokyo
+Udaipur
+Miami
+Paris
+Kashmir
+Geneva
